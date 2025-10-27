@@ -16,7 +16,7 @@ The [Coffee Tracker](https://www.thecsharpacademy.com/project/32/Coffee%20Tracke
 
 ## Running the App
 
-1. In the terminal, navigate to the API folder (CoffeeTracker > CoffeeTracker) and execute the following:  
+1. In the terminal, navigate to the API folder (Lepros311.CoffeeTracker > CoffeeTracker) and execute the following:  
 `dotnet run --urls "https://localhost:7205`
 
 2. Then open a separate terminal and navigate to the frontend folder (CoffeeTracker > CoffeeTracker.Frontend) and execute the following:  
