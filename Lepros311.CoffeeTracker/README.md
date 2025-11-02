@@ -1,6 +1,6 @@
 # Coffee Tracker
 
-The [Coffee Tracker](https://www.thecsharpacademy.com/project/32/Coffee%20Tracker) project is the first project I've done that using Angular (aside from the Angular tutorial project). The app allows a user to record sales of different coffees. The coffee list is initially seeded from this [Coffee API](https://www.freepublicapis.com/coffee). This project is part of [The C# Academy](https://www.thecsharpacademy.com/) curriculum.
+The [Coffee Tracker](https://www.thecsharpacademy.com/project/32/Coffee%20Tracker) project is the first project I've done that using Angular (aside from the Angular tutorial project). The app allows a user to record sales of different coffees. This project is part of [The C# Academy](https://www.thecsharpacademy.com/) curriculum.
 
 ## Requirements
 
@@ -10,13 +10,9 @@ The [Coffee Tracker](https://www.thecsharpacademy.com/project/32/Coffee%20Tracke
 - [x] You should have a filter functionality, so users can select records per date.
 - [x] Make sure validation is user-friendly so the users know exactly what's wrong with their input.
 
-## Challenges
-
-- [x] Add integration with a real coffee API.
-
 ## Running the App
 
-1. In the terminal, navigate to the API folder (Lepros311.CoffeeTracker > CoffeeTracker) and execute the following:  
+1. In the terminal, navigate to the API folder (CoffeeTracker > CoffeeTracker) and execute the following:  
 `dotnet run --urls "https://localhost:7205`
 
 2. Then open a separate terminal and navigate to the frontend folder (CoffeeTracker > CoffeeTracker.Frontend) and execute the following:  
